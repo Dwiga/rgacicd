@@ -1,6 +1,6 @@
 env: standard
 runtime: nodejs20
-service: next-app
+service: my-app
 
 handlers:
   - url: /.*
